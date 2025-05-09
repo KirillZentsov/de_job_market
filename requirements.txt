@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+requests
+tqdm
+beautifulsoup4
+lxml
+notebook
